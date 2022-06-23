@@ -1,0 +1,2 @@
+Estas soluciones están calculadas para un parámetro de acoplamiento fijo 
+cambiando la fraccionalidad de la derivada.
